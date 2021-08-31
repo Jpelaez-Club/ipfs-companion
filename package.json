@@ -107,7 +107,7 @@
     "sinon-chrome": "3.0.1",
     "standard": "15.0.1",
     "style-loader": "2.0.0",
-    "tar": "6.0.5",
+    "tar": "6.1.9",
     "terser": "5.3.8",
     "terser-webpack-plugin": "5.0.3",
     "transform-loader": "0.2.4",

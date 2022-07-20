@@ -108,7 +108,7 @@
     "standard": "15.0.1",
     "style-loader": "2.0.0",
     "tar": "6.0.5",
-    "terser": "5.3.8",
+    "terser": "5.14.2",
     "terser-webpack-plugin": "5.0.3",
     "transform-loader": "0.2.4",
     "web-ext": "5.5.0",
